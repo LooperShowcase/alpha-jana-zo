@@ -1,0 +1,53 @@
+p {
+    color: rgb(0, 0, 0);
+    font-family: 'Lobster', cursive;
+  }
+
+  h2 {
+    color: rgb(213, 141, 230);
+  }
+
+  body {
+    background-color: burlywood;
+  }
+
+  h1 {
+    color: rgb(91, 58, 122);
+  }
+tr,table,td{
+    border:3px solid pink ;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+img{
+
+ border-radius:  60px; ;
+
+}
+
+#img2 {
+  
+border-radius: 80px; 
+}
